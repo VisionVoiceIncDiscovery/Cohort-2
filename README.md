@@ -3,7 +3,7 @@ This repository hosts all instructor and student work of Cohort 2 of the VisionV
 <div><b>VisionVoice, Inc. Organizational Mission</b></div>
 VisionVoice, Inc. is a virtual community on mission to transform and grow human communities around the world. We are committed to promoting the importance of diversity through the inclusion of marginalized & underrepresented peoples in ways that are equitable and sustainable over time.
 
-<div> <b> Core Values </b></div>
+<b> Core Values </b>
 <ul>
   <li><b>Purpose</b>: Commitment and Fidelity to making a meaningful contribution to the world
 <li><b>Honesty</b>: Telling, and not hiding, the truth
